@@ -306,3 +306,26 @@ color: white;
     top: 13%;
     left: 42%;
 }
+
+.act1p1 {
+    background-color: #A1D3BE;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    left: 20%;
+    top: 27%;
+    border-radius: 40px;
+    color: black;
+     font-family: Rockwell;
+}
+
+.act1p1:hover {
+background-color:#A1949D;
+color: white;
+}
