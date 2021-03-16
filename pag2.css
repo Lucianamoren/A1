@@ -370,7 +370,29 @@ background-color:#A1949D;
 color: white;
 }
 
-.activ4p1 {
+.act4p1 {
+    background-color: #A1D3BE;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    left: 65%;
+    top: 27%;
+    border-radius: 40px;
+    color: black;
+    font-family: Rockwell;
+}
+
+.act4p1:hover {
+background-color:#A1949D;
+color: white;
+}
+.act5p1 {
     background-color: #A1D3BE;
     color: white;
     padding: 15px 32px;
@@ -382,13 +404,13 @@ color: white;
     cursor: pointer;
     position: absolute;
     left: 20%;
-    top: 60%;
+    top: 50%;
     border-radius: 40px;
     color: black;
-    font-family: Rockwell;
+     font-family: Rockwell;
 }
 
-.activ4p1:hover {
+.act5p1:hover {
 background-color:#A1949D;
 color: white;
 }
