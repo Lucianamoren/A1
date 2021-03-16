@@ -404,10 +404,10 @@ color: white;
     cursor: pointer;
     position: absolute;
     left: 35%;
-    top: 50%;
+    top: 40%;
     border-radius: 40px;
     color: black;
-     font-family: Rockwell;
+    font-family: Rockwell;
 }
 
 .act5p1:hover {
